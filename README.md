@@ -1,3 +1,3 @@
-# rockpaperscissorsgms
+# Rock Paper Scissors in GameMaker Studio 2
 
-[Download Here](https://duskylw.github.io/git-cloud-storage/rockpaperscissors.zip)
+[Download Here](https://www.mediafire.com/file/o69dj00n4ujbecp/RockPaperScissorsGM.zip/file)
